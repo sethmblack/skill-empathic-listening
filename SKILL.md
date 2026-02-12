@@ -1,10 +1,9 @@
 ---
 name: empathic-listening
-description: Deeply understand another person's experience by listening for feelings
-  beneath words and reflecting understanding without judgment or advice.
+description: Deeply understand another person's experience by listening for feelings beneath words and reflecting understanding without judgment or advice.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - empathic-listening
