@@ -4,7 +4,7 @@ description: Deeply understand another person's experience by listening for feel
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3898
+  version: 1.0.3899
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - empathic-listening
